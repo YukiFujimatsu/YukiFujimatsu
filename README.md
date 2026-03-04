@@ -1,6 +1,6 @@
 # Hi, I'm [Yuki Fujimatsu] 👋
 
-CS学部の大学2年生です。自然領域処理(NLP)とデータサイエンスを中心に、社会課題を解決する技術を学んでいます。
+CS学部の大学2年生です。自然領域処理とデータサイエンスを中心に、社会課題を解決する技術を学んでいます。
 
 ## 🏆 Research & Publications
 ### **Personalized Real-time Flaming Risk Prediction**

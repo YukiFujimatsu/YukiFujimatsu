@@ -5,6 +5,7 @@ CS学部の大学2年生です。自然領域処理とデータサイエンス�
 ## 🏆 Research & Publications
 ### **Personalized Real-time Flaming Risk Prediction**
 - **Publication**: IIAI AAI 2025 Winter (Full Paper Accepted)
+- **Paper**: [Available on IEEE Xplore](https://ieeexplore.ieee.org/document/11418320)
 - **Key Technology**: BERT, Mean Pooling, Cosine Similarity
 - **Highlight**: 判定基準のデータを入れ替えるだけで、個人の価値観に応じた炎上リスク予測が可能な手法を提案。
 

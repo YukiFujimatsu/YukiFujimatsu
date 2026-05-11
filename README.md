@@ -19,6 +19,7 @@ CS学部の大学2年生です。自然領域処理とデータサイエンス�
 ### 🐍 Programming Languages
 - **Python**: 1年の経験。データ前処理から深層学習モデル（BERT, DeBERTa, LightGBM）の実装、評価まで一貫して行えます。
 - **R**: 基礎的な統計解析・データ操作が可能です。
+- **Java**: 変数、条件分岐、ループ処理といった制御構文の基礎を理解しています。
 ### 🤖 AI / Data Science
 - **Deep Learning**: PyTorchを用いたFine-tuning、Mean Poolingによるベクトル抽出。
 - **Machine Learning**: Scikit-learn, LightGBMを用いた分類タスク、特徴量エンジニアリング。

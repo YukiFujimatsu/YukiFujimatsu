@@ -1,5 +1,8 @@
 # Hi, I'm [Yuki Fujimatsu] 👋
 
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/yuki_fujimatsu)
+[![LAPRAS](https://img.shields.io/badge/LAPRAS-009DDF?style=for-the-badge&logo=lapras&logoColor=white)](https://lapras.com/public/XWS3JPB)
+
 CS学部の大学2年生です。自然領域処理とデータサイエンスを中心に、社会課題を解決する技術を学んでいます。
 
 ## 🏆 Research & Publications
@@ -30,5 +33,8 @@ CS学部の大学2年生です。自然領域処理とデータサイエンス�
 - **Math**: 線形代数（機械学習の基礎理論の理解に活用）
 ### 🌐 Global Experience
 - **English**: シンガポールでの語学研修に参加し、国際的なコミュニケーションへの意欲があります。
+## 🔗 Links & Contact
+- **Zenn**: [技術記事・学習記録](https://zenn.dev/yuki_fujimatsu)
+- **LAPRAS**: [技術スコア・ポートフォリオ](https://lapras.com/public/XWS3JPB)
 ---
 大学の課題だけでなく、実社会のデータを用いたモデル構築や研究活動に積極的に取り組んでいます。インターンシップや共同開発のお誘いをお待ちしております！
